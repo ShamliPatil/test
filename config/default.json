@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey" : "5c3c3483ba87160b282220000ee",
+    "dbConnection" : "mongodb://127.0.0.1/testDatabase"
+}

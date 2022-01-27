@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey" : "test_jwtPrivateKey",
+    "dbConnection" : "test_databaseConnection"
+}
